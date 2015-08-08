@@ -2,7 +2,6 @@
 
 //test  github
 echo "test"
-	die();
 require_once (dirname(__FILE__) . "/include/common.inc.php");
 require_once (dirname(__FILE__) . "/include/init.php");
 require_once(DEDEINC."/memberlogin.class.php");
